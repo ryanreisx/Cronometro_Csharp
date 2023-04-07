@@ -1,0 +1,8 @@
+C:\Users\Ryan\source\repos\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\Ryan\source\repos\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Ryan\source\repos\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Ryan\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\Ryan\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
